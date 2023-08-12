@@ -30,7 +30,7 @@ The unicorn_companies table has 11 columns, namely:
 - __id:__ A serial column, used as Primary Key.
 - __company:__ The company name.
 - __industry:__ The company industry.
-- __year_founded:__ The year the company was founded.
+- __year_founded:__ The years the company was founded.
 - __city:__ The city the company was founded in.
 - __country:__ The country the company was founded in.
 - __continent:__ The continent the company was founded in.
